@@ -15,10 +15,10 @@ When brought back online:
   * Offline entries should be added to tracker.
 
 # Screenshot
-![screenshot](.\public\images\budget_tracker_screenshot.jpg)
+![screenshot](./public/images/budget_tracker_screenshot.jpg)
 
 
 ## Links
 
-* [Deployed application](../04-Important/MongoAtlas-Deploy.md)
-* [Github repository](../04-Important/MongoAtlas-Deploy.md)
+* [Deployed application](https://hanh-budget-tracker.herokuapp.com/)
+* [Github repository](https://github.com/hanhle1989/PWA_Budget_Tracker)
